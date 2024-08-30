@@ -1,0 +1,268 @@
+*{
+    margin:0;
+    font-family:Arial;
+    border:border-box;
+    
+
+}
+.navbar{
+    height:100px;
+    background-color:black;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+
+
+.logo{
+    background-image: url("4.png");
+    background-size:cover;
+    
+    height:100px;
+    width:100px;
+    
+    
+
+}
+.border{
+    border:2px solid  transparent;
+}
+.border:hover{
+    border:2px solid white;
+}
+
+.add-icon{
+    display:flex;
+    align-items: left;
+    border:2px solid transparent;
+    margin:6px;
+
+}
+.add-icon:hover{
+    border:2px solid white;
+
+}
+.first{
+    color:#cccccc;
+    ;
+    font-size:small
+
+
+}
+.sec{
+    margin-left:10px;
+    font-size:small;
+
+}
+.first{
+    border:2px solid transparent;
+     margin-left:10px;
+}
+.first:hover{
+    border:2px solid white;
+    
+}
+.search-bar{
+    display:flex;
+    margin:20px;
+    background-color: rgb(207,181,59);
+    border-radius:10px;
+}
+.search-icon{
+    margin:6px;
+    
+    
+}
+
+.search-width{
+   width:620px;
+
+}
+.search-width2{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.nav-extra{
+    font-size:16px;
+    font-weight: bolder;
+    border:2px solid transparent;
+}
+span{
+    font-size:14px;
+    border:2px solid transparent;
+}
+#cart1{
+    font-size:20px;
+    border:2px solid transparent;
+}
+span:hover{
+    border:2px solid white;
+
+}
+
+#cart1:hover{
+border:2px solid white;
+}
+.nav-extra:hover{
+    border:2px solid white;
+}
+.pannel{
+    background-color: rgb(207,181,59);
+    display:flex;
+    height:40px;
+    align-items:center;
+    color:white;
+    align-items: center;
+    justify-content:space-evenly ;
+    
+
+    
+}
+
+.pannel-ops a{
+    display:inline;
+    color:white;
+    font-size: 16px;
+    margin:10px;
+    text-decoration:none;
+       
+}
+a{
+    text-decoration:none;
+    color:white;
+}
+.pannel-ops{
+    width:70%;
+    border:2px solid transparent;
+}
+.pannel-deals{
+    color:white;
+    font-size:16px;
+    border:2px solid transparent;
+}
+.main-section{
+    background-image:url("background\ image.png");
+    height:674px;
+    width:1520px;
+    background-size:cover;
+
+
+}
+h1{
+    color:white;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 80px;
+}
+.price{
+    background-color:white;
+    width:200px;
+    
+}
+h4{
+    color:black;
+}
+#a-color {
+    color:skyblue;
+    font-size: 14px;
+
+
+}
+#white{
+    color:white;
+}
+.hero{
+    background-color:black;
+    height:40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    width:100%;
+  
+    
+}
+.hero-section{
+    display:flex;
+    justify-content: center;
+   align-items: flex-end;
+   
+    
+}
+.images{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+#pink{
+    color:pink;
+
+}
+#green{
+    color:green;
+    
+}
+#blue{
+    color:#3559E0;
+}
+.names{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h2{
+    text-align: center;
+    color:bisque;
+    padding: 60px;
+}
+.shopping{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+p{
+    color:white;
+}
+#green{
+    color:lightgreen;
+}
+.Shopping2{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-evenly;
+    padding-top:50px
+}
+.main-section2{
+    background-color: black;
+
+}
+.base{
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+    background-color:black;
+    
+    
+     
+}
+.font{
+    font-weight: bold;
+    color:white;
+}
+.font2{
+    color:white;
+    font-size: 16px;
+}
+pre{
+    color:white;
+}
+button{
+    background-color: rgb(207,181,59);
+    color:white;
+    height:40px;
+}
